@@ -2,9 +2,9 @@
 
 This is a full-stack web application that uses a React frontend and Express backend to generate images from text prompts using the Flush AI model. The model supports generating up to **8 images** per request.
 
-![image](https://github.com/user-attachments/assets/5c8fde8b-0154-4ea6-8535-6509ef06b6b2)
-
 ![image](https://github.com/user-attachments/assets/1f4a24f1-5eb7-4e51-88f2-322af1da5eb2)
+
+![image](https://github.com/user-attachments/assets/5c8fde8b-0154-4ea6-8535-6509ef06b6b2)
 
 ![image](https://github.com/user-attachments/assets/c823b647-2e2c-4885-91f2-d6131793b45c)
 
